@@ -6,3 +6,4 @@ git is free software
  change4
  change5
  creating a new branch is quick
+ AND
